@@ -1,0 +1,19 @@
+{
+  "name": "modal-view",
+  "version": "1.0.0",
+  "description": "This project show modal window and background will blur",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devvrats/modal-window.git"
+  },
+  "author": "Devvrat Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devvrats/modal-window/issues"
+  },
+  "homepage": "https://github.com/devvrats/modal-window#readme"
+}
